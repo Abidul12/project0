@@ -1,0 +1,18 @@
+$#ed0987:
+font: {
+    size: 28px;
+  weight: bold;
+}
+%project {
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+  }
+  .project{
+    @extend %message;
+    background-color: orange;
+  }

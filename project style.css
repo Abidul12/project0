@@ -1,0 +1,44 @@
+body{
+  background: #acf2a2;
+}
+table{
+  border: 1px solid black;
+  align-items: center;
+  border-collapse: collapse;
+  padding: 20px;
+  margin: auto;
+  height: 50%;
+  width: 90%;
+  }
+th{
+    border: 5px solid black;
+    padding: 15px;
+    background: #f2f2f2;
+    text-decoration: inherit;
+    font-style: normal;
+    font-size: 30px;
+    font-family: fantasy;
+    color: #24f061
+
+    }
+td{
+    border: 3px solid black;
+    text-align: center;
+    padding: 30px;
+    background: #5ccbed;
+    font-size: 20px;
+    color: #ed0987;
+    font-family: fantasy;
+      }
+h1{
+  text-align: center;
+  font-style: normal;
+  font-family: fantasy;
+  color: red;
+  font-size: 35px;
+  border: 3px solid black;
+  background: #52474a;
+  width: 50%;
+  margin: auto;
+  padding: 10px solid white;
+}
